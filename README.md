@@ -10,3 +10,5 @@ MicroDetect is developed for the analysis of:
 
 # Tutorial
 
+a) Download and install MicrobDetect
+
