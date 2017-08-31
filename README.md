@@ -8,5 +8,5 @@ MicroDetect is developed for the analysis of:
   - estimate the abudance of microbiome at different taxonomy levels, from strains to phylum.
   - multiple testing on the paired samples combining metadata revealing the potential outcome related microbes. 
 
-# Features
+# Tutorial
 
