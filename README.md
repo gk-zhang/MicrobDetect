@@ -10,5 +10,20 @@ MicroDetect is developed for the analysis of:
 
 # Tutorial
 
-a) Download and install MicrobDetect
+a) Download and install MicrobDetect:
+   git clone https://github.com/gk-zhang/MicrobDetect.git
+   
+b) Download clinical whole genome sequencing samples:
+
+c) filter out the host reads
+
+d) prepare the microbial/pathogen reference sequence from Patric database
+
+e) map samples against reference database
+
+d) evaluate and estimate the microbial abundance
+
+f) profiling the microbial abundance for all the samples
+
+g) downstream statistical analysis combining clinical data
 
