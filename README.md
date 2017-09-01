@@ -8,9 +8,10 @@ MicroDetect is developed for the analysis of:
   - estimate the abudance of microbiome at different taxonomy levels, from strains to phylum.
   - multiple testing on the paired samples combining metadata revealing the potential outcome related microbes. 
 
-# Tutorial
+# How to run 
 
 a) Download and install MicrobDetect:
+   
    git clone https://github.com/gk-zhang/MicrobDetect.git
    
 b) Download clinical whole genome sequencing samples:
