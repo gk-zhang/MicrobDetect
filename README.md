@@ -15,7 +15,11 @@ a) Download and install MicrobDetect:
     $ git clone https://github.com/gk-zhang/MicrobDetect.git
    
    MicrobDetect runs under Ubuntu/Linux and requires the following software tools to be installed on your system:
-    $ git clone https://github.com/gk-zhang/MicrobDetect.git
+   
+    python
+    bowtie2
+    R
+   
    
 b) Download clinical whole genome sequencing samples:
 
