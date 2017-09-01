@@ -14,6 +14,13 @@ a) Download and install MicrobDetect:
    
    $ git clone https://github.com/gk-zhang/MicrobDetect.git
    
+   
+    $ autoreconf -fi -Im4  # optional when building from tarball
+    $ ./configure
+    $ make
+    $ make install
+
+   
    MicrobDetect runs under Ubuntu/Linux and requires the following software tools to be installed on your system:
 
    
