@@ -5,7 +5,7 @@ MicrobDetect is a pipeline to identify and to profile the microbiome content fro
 MicroDetect is developed for the analysis of:
   - detect possible existed pathongens in the clinical samples.
   - generate microbial profile from the whole genome sequencing data.
-  - estimate the abudance of microbiome at different taxonomy levels, from strains to phylum.
+  - estimate the abundance of microbiome at different taxonomy levels, from strains to phylum.
   - multiple testing on the paired samples combining metadata revealing the potential outcome related microbes. 
 
 # How to run 
